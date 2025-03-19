@@ -35,15 +35,6 @@ Run the Streamlit app using the following command:
 streamlit run app.py
 ```
 
-## Configuration
-Modify `config.py` to customize API keys, strategies, and other parameters.
-
-## Contributing
-We welcome contributions! Feel free to open issues or submit pull requests.
-
-## License
-This project is licensed under the MIT License.
-
 ## Author
-Created by **Your Name**. Feel free to connect and contribute!
+Created by **Sabreena Daniyal**. Feel free to connect and contribute!
 
